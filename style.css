@@ -1,4 +1,4 @@
-body {
+* {
     margin: 0;
     padding: 0;
     text-align: center;
@@ -6,17 +6,16 @@ body {
     font-family: "Orbitron", sans-serif;
 }
 
-#main {
+.main {
     background-image: url("https://media0.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif?cid=6c09b952m2k9w1hm5qnl7jqpdyiwziwyzxdhfvpvkwlx3buq&ep=v1_gifs_search&rid=giphy.gif&ct=g");
     background-size: cover;
-    padding: 0 0 510px;
+    height: 94vh;
+    width: 100vw;
 }
 
 .btn {
     padding: 6px 12px;
     background-color: white;
-    color: inherit;
-    font-family: inherit;
     font-weight: bold;   
     border: none;     
 }
@@ -25,17 +24,16 @@ body {
     border-bottom: 5px solid white;
 }
 
-#logo {
+.logo {
     width: 10%;
 }
 
-#heading {
-    margin-top: 0;
+.heading {
     text-shadow: 0px 0px 5px black;
+    margin-bottom: 15px;
 }
 
-h3 {
+.bottom {
     background-color: white;
     padding: 15px;
-    margin: 0;
 }
