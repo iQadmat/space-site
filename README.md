@@ -6,7 +6,7 @@ A small project guided by Per Harald Borgen, the co-founder and CEO of Scrimba.
 
 ## Links
 
-- Live Site URL: [GitHub Pages](https://iqadmat.github.io/space-site/) - [Netlify](https://inspiring-concha-56b4b5.netlify.app/)
+- Live Site URL: [Netlify](https://iqadmat-space.netlify.app/)
 
 ## Author
 
